@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../HIT.png</file>
+        <file>../../hit.jpg</file>
+        <file>../../hit100100.png</file>
+        <file>../../upicon.jpg</file>
+        <file>../../hit_5050.png</file>
+    </qresource>
+</RCC>
